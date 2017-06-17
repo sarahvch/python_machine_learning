@@ -1,12 +1,6 @@
 # python_machine_learning
-<h3>Scripts</h3>
-<ul>
-  <li>predicting world happiness, linear regression</li>
-  <li>predicting validated chemicals, random forest</li>
+<h3>World Happiness<h3>
+<h4>Files</h4>
+  <li>world_happiness_linear_reggression.ipynb</li>
+  <li>2017.csv</li>
 </ul>
-<h3>Data Files</h3>
-<ul>
-  <li>2017.csv, world happiness</li>
-  <li>Chemical_Toxicities_Blended_Flattened_Boolean.csv, validated chemicals</li>
-</ul>
-
