@@ -13,4 +13,9 @@
   <li>predicting_validated_chemicals_RF.ipynb</li>
   <li>Chemical_Toxicities_Blended_Flattened_Boolean.csv</li>
 </ul>
-
+<h3>Spam Filter: Natural Language Procesing</h3>
+<p>This script uses Natural Language Processing to identifiy spam messseages in a uci data set: SMS Collection Data Set Spam vs. Ham</p>
+<h4>Files</h4>
+<ul>
+  <li>NLP-nltk-spam-detection-filter.ipynb</li>
+</ul>
